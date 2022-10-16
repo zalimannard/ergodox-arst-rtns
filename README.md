@@ -37,13 +37,10 @@ I use Arch btw. If you needed to do this on other distribution, most likely the 
 ```shell
 git clone https://github.com/zalimannard/ergodox-arst-rtns.git
 cd ergodox-arst-rtns
-sudo cp ./ergodox_arst_rtns_ru /usr/share/X11/xkb/symbols
+./install.sh
 ```
-Add the layout in `/usr/share/X11/xkb/rules/base.lst` and `/usr/share/X11/xkb/rules/evdev.lst` to the `! layout` section.
 
-Add the layout in `/usr/share/X11/xkb/rules/base.xml` and `/usr/share/X11/xkb/rules/evdev.xml` to the `<layoutList>` section.
-
-More detailed instructions will be provided later
+After that, a new layout should appear in your desktop environment.
 
 ## :pencil: Licence
 
