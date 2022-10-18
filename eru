@@ -1,9 +1,9 @@
-// eru - Ergodox Arst-Rtns Russian
+// eru - ErgoDox Русская
 
 default partial alphanumeric_keys
 xkb_symbols "basic" {
 
-    name[Group1]= "eru";
+    name[Group1]= "ErgoDox Русская";
 
     key <TLDE> {	[     grave,	asciitilde	]	};
     key <AE01> {	[	  1,	exclam 		]	};

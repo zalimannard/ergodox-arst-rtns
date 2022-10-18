@@ -1,6 +1,6 @@
 #!/bin/bash
 SHORT_NAME="eru"
-NAME="Ergodox Arst-Rtns Russian"
+NAME="ErgoDox Русская"
 
 echo Updating file with layout
 sudo cp ./eru /usr/share/X11/xkb/symbols
