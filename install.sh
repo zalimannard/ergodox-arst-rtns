@@ -90,7 +90,7 @@ fi
 
 # English
 
-SHORT_NAME="enn"
+SHORT_NAME="een"
 NAME="ErgoDox English"
 
 echo
