@@ -24,11 +24,15 @@ The English layout is based on Colemak, Dvorak and Arensito. Russian is based on
 
 English layout:
 
-![English layout](readme-images/English.png)
+![English layout](readme-images/english.png)
 
 Russian layout:
 
-![Russian layout](readme-images/Russian.png)
+![Russian layout](readme-images/russian.png)
+
+Symbol Layer:
+
+![Symbol Layer](readme-images/symbols.png)
 
 ## :computer: Adding to the system
 
